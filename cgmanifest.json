@@ -60,7 +60,7 @@
 				"git": {
 					"name": "electron",
 					"repositoryUrl": "https://github.com/electron/electron",
-					"commitHash": "1631fc9b0c0d84283105a669c98bbeb8bab39109"
+					"commitHash": "17c970b6a2fd07ac3c63809c25831e7aba8775f0"
 				}
 			},
 			"isOnlyProductionDependency": true,
